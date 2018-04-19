@@ -3,7 +3,7 @@ package com.coolweather.app.model;
 public class County {
 	private int id;
 	private String countyName;
-	private String countyCode;
+	private String countyCode;//ÌìÆøid
 	private int cityId;
 	
 	public int getId() {
